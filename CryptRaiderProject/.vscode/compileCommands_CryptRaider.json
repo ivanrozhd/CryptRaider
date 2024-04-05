@@ -1,0 +1,170 @@
+[
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaider.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaider.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaiderCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaiderCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaiderGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaiderGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaiderPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaiderPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaiderProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\CryptRaiderProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\Mover.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\Mover.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\Grabber.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\Grabber.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\TriggerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\TriggerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectsUE\\CryptRaider\\Source\\CryptRaider\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectsUE\\CryptRaider\\.vscode\\compileCommands_CryptRaider\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	}
+]
