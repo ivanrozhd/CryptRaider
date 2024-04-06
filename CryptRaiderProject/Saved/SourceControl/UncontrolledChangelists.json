@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ProjectsUE/CryptRaider/Content/Dungeon.umap",
+				"D:/ProjectsUE/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/BP_FirstPersonGameMode.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/BP_FirstPersonPlayer.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/BP_CryptRaiderGameMode.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/BP_Torch_Dungeon.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/BP_SecretWall.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/BP_Statute.uasset",
+				"D:/ProjectsUE/CryptRaider/Content/FirstPerson/Blueprints/BP_FirstPersonPlayer.uasset"
+			]
+		}
+	]
+}

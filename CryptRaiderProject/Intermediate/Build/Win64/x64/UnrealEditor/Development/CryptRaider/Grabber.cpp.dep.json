@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projectsue\\cryptraider\\source\\cryptraider\\grabber.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projectsue\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraidereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\projectsue\\cryptraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "d:\\projectsue\\cryptraider\\source\\cryptraider\\grabber.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicshandlecomponent.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintinstance.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintinstance.generated.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicshandlecomponent.generated.h",
+            "d:\\projectsue\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\grabber.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
